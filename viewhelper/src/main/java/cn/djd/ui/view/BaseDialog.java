@@ -4,7 +4,7 @@ import android.app.Dialog;
 import android.content.Context;
 import android.view.View;
 
-import cn.wwah.ui.R;
+import cn.djd.ui.R;
 
 
 /**

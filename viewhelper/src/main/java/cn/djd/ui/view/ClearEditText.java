@@ -10,7 +10,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.EditText;
 
-import cn.wwah.ui.R;
+import cn.djd.ui.R;
 
 /**自定义EditText
  * author：ZhouYuChao on 2016/6/21 17:32

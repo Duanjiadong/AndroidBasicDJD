@@ -37,7 +37,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 import android.support.design.widget.Snackbar;
 
-import cn.wwah.common.R;
 
 
 /**

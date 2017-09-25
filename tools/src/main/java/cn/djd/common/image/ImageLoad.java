@@ -6,7 +6,7 @@ import android.widget.ImageView;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.RequestManager;
 
-import cn.wwah.common.R;
+import cn.djd.common.R;
 
 /**
  * 图片加载工具

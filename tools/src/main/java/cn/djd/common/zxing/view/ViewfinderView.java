@@ -30,8 +30,8 @@ import android.view.View;
 
 import com.google.zxing.ResultPoint;
 
+import cn.djd.common.R;
 import cn.djd.common.zxing.camera.CameraManager;
-import cn.wwah.common.R;
 
 /**
  * This view is overlaid on top of the camera preview. It adds the viewfinder rectangle and partial

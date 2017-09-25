@@ -20,7 +20,7 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import cn.wwah.common.R;
+import cn.djd.common.R;
 import cn.djd.common.banner.listener.OnBannerClickListener;
 import cn.djd.common.banner.loader.ImageLoaderInterface;
 import cn.djd.common.banner.view.BannerViewPager;

@@ -30,8 +30,8 @@ import android.util.Log;
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.Result;
 
+import cn.djd.common.R;
 import cn.djd.common.zxing.view.ViewfinderResultPointCallback;
-import cn.wwah.common.R;
 import cn.djd.common.zxing.activity.CaptureActivity;
 import cn.djd.common.zxing.camera.CameraManager;
 import cn.djd.common.zxing.view.ViewfinderView;

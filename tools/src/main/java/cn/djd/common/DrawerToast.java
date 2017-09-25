@@ -21,7 +21,6 @@ import android.widget.Toast;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
-import cn.wwah.common.R;
 
 /**
  * Created by Jixiang_Li on 2017/2/5.

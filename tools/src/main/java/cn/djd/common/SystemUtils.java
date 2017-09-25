@@ -46,7 +46,6 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Random;
 
-import cn.wwah.common.R;
 
 @SuppressLint("SimpleDateFormat")
 public final class SystemUtils {
