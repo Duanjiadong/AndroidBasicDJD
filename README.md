@@ -16,7 +16,7 @@ Add it in your root build.gradle at the end of repositories:
   Add the dependency：
    ```
   dependencies {
-         compile 'com.github.djd.AndroidBasicDJD:base:0.3.3'
+         compile 'com.github.Duanjiadong.AndroidBasicDJD:base:1.0'
   }
    ```
      Add the AndroidManifes:
