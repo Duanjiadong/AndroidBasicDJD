@@ -1,5 +1,4 @@
 # AndroidBasicLibs
-#中文说明：[戳我](https://github.com/wwah/AndroidBasicLibs/blob/master/ZH_README.md)
 
 A basic library about Android, including tools (network, pictures, check, IO, etc.), custom components.
 
@@ -17,7 +16,7 @@ Add it in your root build.gradle at the end of repositories:
   Add the dependency：
    ```
   dependencies {
-         compile 'com.github.wwah.AndroidBasicLibs:basekit:0.3.3'
+         compile 'com.github.djd.AndroidBasicDJD:base:0.3.3'
   }
    ```
      Add the AndroidManifes:
